@@ -186,3 +186,5 @@ Compiles the GAN model, specifying the optimizers and loss function, and trains 
 ### Summary
 
 This code sets up and trains a GAN for generating artwork images. The discriminator and generator networks are defined and compiled into a GAN model, which is then trained using a dataset of artwork images. The progress is monitored using a callback that saves generated images at the end of each epoch.
+
+## If you want to saved generator model please contact me with email...
